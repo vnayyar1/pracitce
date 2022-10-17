@@ -1,0 +1,27 @@
+h1{
+    color: red;
+    background-color: black;
+    text-align: center;
+}
+.box{
+    width: 100px;
+    height:  30px;
+    border: 2px solid red;
+    background-color:yellow;
+    margin-right: 10px;
+    display:inline-block;
+    font-size: small;
+    padding: 20px;
+    
+} 
+#box1{background-color: yellow;
+
+}
+.box2{
+    float: left;
+    margin-right: 10px;
+
+}
+h2{
+    border: 2x solid red;
+}
